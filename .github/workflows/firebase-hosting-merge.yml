@@ -19,4 +19,4 @@ jobs:
           channelId: live
           projectId: pekelund-6a27e
         env:
-          IREBASE_CLI_EXPERIMENTS: webframeworks
+          FIREBASE_CLI_EXPERIMENTS: webframeworks

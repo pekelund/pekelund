@@ -18,3 +18,5 @@ jobs:
           firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_PEKELUND_6A27E }}'
           channelId: live
           projectId: pekelund-6a27e
+        env:
+          FIREBASE_CLI_EXPERIMENTS: webframeworks
